@@ -22,6 +22,7 @@ def get_summary(text):
 # Test the function
 sample_text = """
 [Your long text here]
+[xxxxx]
 """
 
 summary = get_summary(sample_text)
